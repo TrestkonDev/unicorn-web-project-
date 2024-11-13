@@ -22,7 +22,7 @@ Anyone can contribute for now.
 This is done by me Eman
 
 ## License
-GNU 3.0
+GNU 3.0 open source license
 
 ## Project status
 Project is a WIP
