@@ -1,7 +1,7 @@
 # unicorn-web-project
 
 ## Description
-a unicorn themed web app, as a dry run to using devops environments on AWS
+a unicorn themed hello, world, as a dry run to using devops environments on AWS to deploy.
 
 ## Installation
 WIP
