@@ -20,6 +20,6 @@ phases:
 artifacts:
   files:
     - target/unicorn-web-project.war
-    - appsec.yml
+    - appspec.yml
     - scripts/**/*
   discard-paths: no
