@@ -6,6 +6,7 @@ phases:
       java: corretto8
   pre_build:
     commands:
+      - chmod +x scripts/*.sh
       - echo Initializing environment
       - export CODEARTIFACT_AUTH_TOKEN=`aws codeartifact get-authorization-token --domain unicorns --domain-owner 746669204736 --region eu-west-1 --query authorizationToken --output text`
   build:
