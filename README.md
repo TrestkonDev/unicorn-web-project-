@@ -1,7 +1,7 @@
 # unicorn-web-project
 
 ## Description
-A unicorn themed hello, static site as a dry run to using devops environments on AWS to deploy, there is a pipeline associated hosted on AWS CodePipeline.
+A unicorn themed, static site as a dry run to using devops environments on AWS to deploy, there is a pipeline associated hosted on AWS CodePipeline.
 A docker image version is also hosted on AWS ECR (Elastic container registry)
 
 ## Installation
